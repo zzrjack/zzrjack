@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zzrjack
 - 👀 I’m interested in lol，galgame，novels
-- 🌱 I’m currently learning html5 css3 JavaScript
+- 🌱 I’m currently  Vue.js pinia
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
